@@ -19,6 +19,7 @@ nav ul {
     background-image: url(../images/header_bg.png), url(../images/developer.png);
     background-repeat: no-repeat;
     background-position: bottom right, left;
+
 }
 
 .orange {
@@ -181,7 +182,8 @@ main {
     margin-bottom: 30px;
     color: #474747
 }
-.experience{
+
+.experience {
     text-align: left;
     margin-top: 115px;
     margin-bottom: 30px;
@@ -190,13 +192,14 @@ main {
 }
 
 .master {
-    
+
     color: #474747;
     margin-bottom: 10px;
     margin-top: 30px;
     text-align: left;
 }
-.font{
+
+.font {
     margin-right: 365px;
     color: #474747;
     margin-bottom: 10px;
@@ -209,7 +212,8 @@ main {
     color: #757575;
     margin-bottom: 20px;
 }
-.apple{
+
+.apple {
     text-align: left;
     color: #757575;
     margin-bottom: 20px;
@@ -223,19 +227,77 @@ main {
     width: 400px;
     margin-bottom: 30px;
     text-align: left;
-    
+
 }
-.technologies{
+
+.technologies {
     color: #757575;
     width: 400px;
     margin-bottom: 30px;
     text-align: left;
 
 }
-.btn-download{
+
+.btn-download {
     margin-top: 50px;
     text-align: center;
 }
-.download{
+
+.download {
     background: #FD6E0A;
+}
+
+.connect {
+    display: flex;
+    margin-top: 115px;
+    background: #FFF8F3;
+    width: 1600px;
+    height: 780px;
+    margin-left: 0px;
+    top: 3382px;
+    padding-top: 230px;
+    gap: 110px;
+}
+
+.lets {
+    text-align: left;
+    color: #181818;
+    margin-bottom: 20px;
+}
+
+.this-section {
+    text-align: left;
+    color: #474747;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 30px;
+    width: 500px;
+
+}
+
+.massage {
+    text-align: left;
+    margin-bottom: 30px;
+
+}
+
+.form {
+    display: block;
+}
+
+.text2 {
+    text-align: left;
+    margin-bottom: 25px;
+
+}
+
+.email {
+
+    margin-bottom: 25px;
+
+}
+
+.id {
+    text-align: left;
+
 }

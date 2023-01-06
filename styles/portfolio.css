@@ -148,6 +148,7 @@ main {
     color: #757575;
     line-height: 28px;
     margin-top: 20px;
+    text-align: left;
 }
 
 .What-i-do {
@@ -160,6 +161,81 @@ main {
     margin-top: 30px;
     text-align: left;
 }
-.img1{
+
+.img1 {
     margin-right: 150px;
+}
+
+.title {
+    display: flex;
+    gap: 200px;
+}
+
+.qualification {
+    margin-top: 130px;
+}
+
+.education {
+    text-align: left;
+    margin-top: 115px;
+    margin-bottom: 30px;
+    color: #474747
+}
+.experience{
+    text-align: left;
+    margin-top: 115px;
+    margin-bottom: 30px;
+    color: #474747;
+
+}
+
+.master {
+    
+    color: #474747;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    text-align: left;
+}
+.font{
+    margin-right: 365px;
+    color: #474747;
+    margin-bottom: 10px;
+    margin-top: 30px;
+
+}
+
+.university {
+    margin-right: 200px;
+    color: #757575;
+    margin-bottom: 20px;
+}
+.apple{
+    text-align: left;
+    color: #757575;
+    margin-bottom: 20px;
+
+}
+
+.list {
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+    width: 400px;
+    margin-bottom: 30px;
+    text-align: left;
+    
+}
+.technologies{
+    color: #757575;
+    width: 400px;
+    margin-bottom: 30px;
+    text-align: left;
+
+}
+.btn-download{
+    margin-top: 50px;
+    text-align: center;
+}
+.download{
+    background: #FD6E0A;
 }
